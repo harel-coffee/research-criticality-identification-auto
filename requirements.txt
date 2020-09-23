@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+github
+jupyter
+textblob
+BeautifulSoup
+nltk
+sklearn
+gensim
+pattern
+vaderSentiment
+seaborn
+matplotlib

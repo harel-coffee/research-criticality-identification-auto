@@ -1,0 +1,387 @@
+=================================
+Source: ../../../datasets/mantis_to_erp_next/mantis_en_issues_sentences.txt -> Target: ../../../datasets/mantis_to_erp_next/erp_next_issues_sentences.txt [Averaging over 10 batches]
+
+
+Batch Number 1 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]...............................*............*
+optimization finished, #iter = 43557
+obj = -424149.787478, rho = -19.799224
+nSV = 1539, nBSV = 55
+Total nSV = 1539
+...............................*...........*.*
+optimization finished, #iter = 43727
+obj = -417109.022878, rho = -19.117785
+nSV = 1551, nBSV = 54
+Total nSV = 1551
+..................................*...........*.*
+optimization finished, #iter = 45891
+obj = -421380.345178, rho = -23.357787
+nSV = 1586, nBSV = 54
+Total nSV = 1586
+..................................*............*
+optimization finished, #iter = 46788
+obj = -432517.814406, rho = -23.107416
+nSV = 1593, nBSV = 55
+Total nSV = 1593
+..............................*...........*
+optimization finished, #iter = 41932
+obj = -418746.185838, rho = -13.473707
+nSV = 1542, nBSV = 55
+Total nSV = 1542
+..........................................*................*
+optimization finished, #iter = 58676
+obj = -579447.581275, rho = 21.898022
+nSV = 2138, nBSV = 83
+Total nSV = 2138
+INFO: mae:  0.170030714378
+INFO: testing...
+INFO: PAD value:  1.38281601484
+-------------------------------
+
+Batch Number 2 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]..................................*...........*
+optimization finished, #iter = 45224
+obj = -456173.951426, rho = -25.462565
+nSV = 1562, nBSV = 70
+Total nSV = 1562
+...............................*...........*
+optimization finished, #iter = 42788
+obj = -389536.865912, rho = -17.201241
+nSV = 1539, nBSV = 53
+Total nSV = 1539
+..................................*.............*
+optimization finished, #iter = 47331
+obj = -426937.459370, rho = -23.134780
+nSV = 1583, nBSV = 55
+Total nSV = 1583
+...................................*............*
+optimization finished, #iter = 47450
+obj = -446612.520286, rho = -26.273148
+nSV = 1557, nBSV = 62
+Total nSV = 1557
+.................................*..........*
+optimization finished, #iter = 43792
+obj = -416123.413476, rho = -25.307608
+nSV = 1530, nBSV = 54
+Total nSV = 1530
+.........................................*.................*
+optimization finished, #iter = 58078
+obj = -581384.204112, rho = 28.931821
+nSV = 2108, nBSV = 78
+Total nSV = 2108
+INFO: mae:  0.178914332968
+INFO: testing...
+INFO: PAD value:  1.39683120494
+-------------------------------
+
+Batch Number 3 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]..................................*.........*
+optimization finished, #iter = 43221
+obj = -408895.639381, rho = -20.269382
+nSV = 1540, nBSV = 51
+Total nSV = 1540
+..............................*............*
+optimization finished, #iter = 42934
+obj = -401752.880286, rho = -27.605244
+nSV = 1549, nBSV = 51
+Total nSV = 1549
+..............................*............*
+optimization finished, #iter = 42698
+obj = -401280.352898, rho = -24.750904
+nSV = 1534, nBSV = 54
+Total nSV = 1534
+...............................*............*
+optimization finished, #iter = 43872
+obj = -396380.991978, rho = -26.359082
+nSV = 1576, nBSV = 51
+Total nSV = 1576
+..............................*...........*
+optimization finished, #iter = 41897
+obj = -402888.482860, rho = -34.697414
+nSV = 1574, nBSV = 58
+Total nSV = 1574
+.................................*..................*
+optimization finished, #iter = 51342
+obj = -532023.367201, rho = 29.814526
+nSV = 2133, nBSV = 71
+Total nSV = 2133
+INFO: mae:  0.166011462082
+INFO: testing...
+INFO: PAD value:  1.38825006417
+-------------------------------
+
+Batch Number 4 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]..............................*..........*
+optimization finished, #iter = 40055
+obj = -368458.536177, rho = -21.444486
+nSV = 1516, nBSV = 40
+Total nSV = 1516
+...............................*............*
+optimization finished, #iter = 43340
+obj = -409735.308081, rho = -16.449061
+nSV = 1573, nBSV = 50
+Total nSV = 1573
+.............................*................*
+optimization finished, #iter = 45258
+obj = -420855.638592, rho = -18.044754
+nSV = 1573, nBSV = 54
+Total nSV = 1573
+.................................*..........*
+optimization finished, #iter = 43509
+obj = -359617.779704, rho = -15.375066
+nSV = 1517, nBSV = 38
+Total nSV = 1517
+...............................*...........*
+optimization finished, #iter = 42542
+obj = -408803.060903, rho = -17.968507
+nSV = 1496, nBSV = 51
+Total nSV = 1496
+.........................................*..............*
+optimization finished, #iter = 55020
+obj = -539402.023500, rho = 16.595050
+nSV = 2034, nBSV = 64
+Total nSV = 2034
+INFO: mae:  0.169948018644
+INFO: testing...
+INFO: PAD value:  1.36977504654
+-------------------------------
+
+Batch Number 5 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]...............................*.........*
+optimization finished, #iter = 40544
+obj = -378455.289110, rho = -21.952500
+nSV = 1535, nBSV = 44
+Total nSV = 1535
+.............................*...........*
+optimization finished, #iter = 40582
+obj = -355509.364825, rho = -22.551021
+nSV = 1496, nBSV = 43
+Total nSV = 1496
+...............................*..........*
+optimization finished, #iter = 41895
+obj = -372934.043529, rho = -22.749330
+nSV = 1563, nBSV = 42
+Total nSV = 1563
+...............................*...........*
+optimization finished, #iter = 42377
+obj = -391197.764333, rho = -23.637900
+nSV = 1520, nBSV = 52
+Total nSV = 1520
+................................*............*
+optimization finished, #iter = 44186
+obj = -396503.191276, rho = -17.205312
+nSV = 1560, nBSV = 46
+Total nSV = 1560
+........................................*.............*.*
+optimization finished, #iter = 53713
+obj = -515953.051665, rho = 25.030007
+nSV = 2089, nBSV = 63
+Total nSV = 2089
+INFO: mae:  0.171775769179
+INFO: testing...
+INFO: PAD value:  1.3565696203
+-------------------------------
+
+Batch Number 6 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]..............................*..............*
+optimization finished, #iter = 44207
+obj = -376092.715193, rho = -16.813018
+nSV = 1540, nBSV = 47
+Total nSV = 1540
+.............................*................*
+optimization finished, #iter = 45747
+obj = -396836.106616, rho = -21.092819
+nSV = 1532, nBSV = 45
+Total nSV = 1532
+.................................*........*
+optimization finished, #iter = 41942
+obj = -407411.150048, rho = -18.398720
+nSV = 1559, nBSV = 51
+Total nSV = 1559
+..................................*..........*
+optimization finished, #iter = 44434
+obj = -397250.142780, rho = -15.868576
+nSV = 1562, nBSV = 47
+Total nSV = 1562
+...............................*...........*
+optimization finished, #iter = 42583
+obj = -385655.869745, rho = -16.763038
+nSV = 1564, nBSV = 52
+Total nSV = 1564
+......................................*................*
+optimization finished, #iter = 54254
+obj = -533337.642173, rho = 16.897958
+nSV = 2105, nBSV = 69
+Total nSV = 2105
+INFO: mae:  0.156282875902
+INFO: testing...
+INFO: PAD value:  1.40717332273
+-------------------------------
+
+Batch Number 7 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]..........................*..........*
+optimization finished, #iter = 36752
+obj = -387096.743703, rho = -15.105309
+nSV = 1509, nBSV = 57
+Total nSV = 1509
+..............................*...........*
+optimization finished, #iter = 41987
+obj = -404539.480083, rho = -15.030368
+nSV = 1521, nBSV = 47
+Total nSV = 1521
+...............................*...........*
+optimization finished, #iter = 42171
+obj = -373018.777682, rho = -17.565268
+nSV = 1512, nBSV = 44
+Total nSV = 1512
+................................*.........*
+optimization finished, #iter = 41610
+obj = -397748.465538, rho = -18.320271
+nSV = 1540, nBSV = 48
+Total nSV = 1540
+..............................*..............*.*
+optimization finished, #iter = 45279
+obj = -357908.427569, rho = -22.635680
+nSV = 1524, nBSV = 35
+Total nSV = 1524
+.......................................*............*
+optimization finished, #iter = 51266
+obj = -530077.810450, rho = 15.774269
+nSV = 2056, nBSV = 73
+Total nSV = 2056
+INFO: mae:  0.170502974557
+INFO: testing...
+INFO: PAD value:  1.35521780758
+-------------------------------
+
+Batch Number 8 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]................................*............*
+optimization finished, #iter = 44174
+obj = -413128.157399, rho = -11.685543
+nSV = 1513, nBSV = 57
+Total nSV = 1513
+................................*.............*
+optimization finished, #iter = 45042
+obj = -393589.518152, rho = -15.215615
+nSV = 1518, nBSV = 48
+Total nSV = 1518
+................................*.............*
+optimization finished, #iter = 45394
+obj = -400827.608235, rho = -16.454503
+nSV = 1517, nBSV = 49
+Total nSV = 1517
+................................*..............*
+optimization finished, #iter = 46535
+obj = -435916.087840, rho = -16.554454
+nSV = 1569, nBSV = 59
+Total nSV = 1569
+..............................*..........*
+optimization finished, #iter = 40462
+obj = -375645.629540, rho = -13.778914
+nSV = 1524, nBSV = 49
+Total nSV = 1524
+......................................*...................*
+optimization finished, #iter = 57657
+obj = -543832.797037, rho = 14.800280
+nSV = 2119, nBSV = 72
+Total nSV = 2119
+INFO: mae:  0.172197038738
+INFO: testing...
+INFO: PAD value:  1.38253354879
+-------------------------------
+
+Batch Number 9 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]..................................*.........*
+optimization finished, #iter = 43793
+obj = -423347.522593, rho = -20.534270
+nSV = 1567, nBSV = 53
+Total nSV = 1567
+...................................*..............*
+optimization finished, #iter = 49304
+obj = -413206.505392, rho = -21.153152
+nSV = 1574, nBSV = 49
+Total nSV = 1574
+...............................*...........*
+optimization finished, #iter = 42259
+obj = -380532.777147, rho = -16.802167
+nSV = 1496, nBSV = 50
+Total nSV = 1496
+.................................*.............*
+optimization finished, #iter = 46742
+obj = -421565.271523, rho = -22.752013
+nSV = 1564, nBSV = 51
+Total nSV = 1564
+...............................*............*
+optimization finished, #iter = 43240
+obj = -399855.381474, rho = -20.821685
+nSV = 1566, nBSV = 49
+Total nSV = 1566
+..........................................*.................*
+optimization finished, #iter = 59801
+obj = -554518.396726, rho = 19.966486
+nSV = 2173, nBSV = 72
+Total nSV = 2173
+INFO: mae:  0.173023931052
+INFO: testing...
+INFO: PAD value:  1.34996124197
+-------------------------------
+
+Batch Number 10 out of 10 executing..
+INFO: training on  7499  examples
+[LibSVM]..............................*...........*
+optimization finished, #iter = 41909
+obj = -376578.813010, rho = -21.538497
+nSV = 1508, nBSV = 41
+Total nSV = 1508
+.............................*...........*
+optimization finished, #iter = 40567
+obj = -386588.246691, rho = -22.102828
+nSV = 1543, nBSV = 49
+Total nSV = 1543
+................................*............*
+optimization finished, #iter = 44881
+obj = -429437.199520, rho = -19.568247
+nSV = 1566, nBSV = 57
+Total nSV = 1566
+................................*............*
+optimization finished, #iter = 44740
+obj = -397056.565344, rho = -27.410091
+nSV = 1592, nBSV = 46
+Total nSV = 1592
+...............................*.............*.*
+optimization finished, #iter = 44803
+obj = -426012.278271, rho = -22.638420
+nSV = 1585, nBSV = 61
+Total nSV = 1585
+..........................................*................*
+optimization finished, #iter = 58799
+obj = -548106.757664, rho = 25.861814
+nSV = 2130, nBSV = 70
+Total nSV = 2130
+INFO: mae:  0.178499539026
+INFO: testing...
+INFO: PAD value:  1.34281542766
+-------------------------------
+All PAD values throughout the 10 approximations are:
+[1.3828160148388213,
+ 1.3968312049435219,
+ 1.388250064169275,
+ 1.3697750465411098,
+ 1.3565696202978912,
+ 1.4071733227253755,
+ 1.3552178075757402,
+ 1.3825335487935067,
+ 1.3499612419726874,
+ 1.3428154276562183]
+
+The Final Average PAD is:   1.373194
+=================================
