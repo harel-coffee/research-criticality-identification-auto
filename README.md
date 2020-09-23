@@ -9,4 +9,6 @@ Other than the libraries mentioned in requirements.txt, code for Semi-Supervised
 For Proxy-A-Distance:
 -) https://github.com/rpryzant/proxy-a-distance
 
+The research code has alot of redundancies and will be more cleaned soon.
+
 The code is published under MIT License.
