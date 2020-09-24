@@ -12,3 +12,4 @@ pattern
 vaderSentiment
 seaborn
 matplotlib
+mlextend
